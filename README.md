@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Laecio212/Laecio212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👋 Olá! Eu sou o Laécio 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Gestão de Dados na UFPI  
+📊 Explorando Análise de Dados, MySQL, Power BI e Python  
+💡 Curioso por tecnologia e apaixonado por transformar dados em insights  
+📌 Sempre aprendendo e compartilhando conhecimento!  
+
+
+
+
+ Contatos
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]('https://www.linkedin.com/in/laécio-monteiro-b7244735'3)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee)](mailto:laeciomonteiro275@gmail.com)
+
+![status](https://github-readme-stats.vercel.app/api?username=Laecio212&theme=blue-green)
+
+Tecnologias
+
+![Mysql](    https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white )
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white )
+
