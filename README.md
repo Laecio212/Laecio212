@@ -12,7 +12,7 @@
 
  Contatos
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]('https://www.linkedin.com/in/laécio-monteiro-b7244735'3)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la%C3%A9cio-monteiro-b72447353/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee)](mailto:laeciomonteiro275@gmail.com)
 
 ![status](https://github-readme-stats.vercel.app/api?username=Laecio212&theme=blue-green)
