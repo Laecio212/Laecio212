@@ -28,9 +28,7 @@ Tecnologias
 
 
 
-<div style="display: inline_block"> <br/>
-<img width ="100" align="center" alt="gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp3NnM4eXYzY21hOG5rZnQ5cG5mdXYza3F0bWZjMWJjcmZ0Ym91YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"> 
-<img width ="200" align="center" alt="gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjc4bmc2bmRxczE3bm95emdqMTFxNHZsMjV5Mno0NjMyMHc3N3o3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"> 
+<div style="display: inline_block"> <br/> 
  <img width ="200" align="center" alt="gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV3YmIzeHRqczIzYmtvdm1rcWJvcWR4NXJkNW80dXp4NXE0cXR3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif">  
 </div> <br/>
 
