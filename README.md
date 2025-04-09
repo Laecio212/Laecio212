@@ -28,8 +28,7 @@ Tecnologias
 
 
 
-<div style="display: inline_block"> <br/> 
- <img width ="200" align="center" alt="gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV3YmIzeHRqczIzYmtvdm1rcWJvcWR4NXJkNW80dXp4NXE0cXR3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wKWxuUOcp9fdvckBty/giphy.gif">  
-</div> <br/>
+
+
 
 
